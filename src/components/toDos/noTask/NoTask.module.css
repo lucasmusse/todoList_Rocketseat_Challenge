@@ -1,0 +1,15 @@
+.noTask{
+    text-align: center;
+    margin-top: 1.5rem;
+    padding-top: 3rem;
+    border-top: 1px solid var(--gray-300);
+    width: 100%;
+}
+
+.icon{
+    color: var(--gray-400)
+}
+
+.noTask > p {
+    color: var(--gray-300);
+}

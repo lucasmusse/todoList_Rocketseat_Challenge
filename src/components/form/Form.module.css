@@ -1,0 +1,44 @@
+.form {
+    display: flex;
+    width: 100%;
+    gap: 0.5rem;
+  }
+  
+  .inputTask {
+    padding: 1rem;
+    width: 100%;
+  
+    border-radius: 8px;
+    background: var(--gray-500);
+    border: none;
+  
+    margin-top: calc(0px - 1.5rem - 6px);
+  }
+  
+  .buttonSubmit {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--blue-dark);
+    margin-top: calc(0px - 1.5rem - 6px);
+  
+    padding: 1rem;
+    border-radius: 8px;
+    border: none;
+  
+    cursor: pointer;
+  }
+
+  .cancelButton{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: red;
+    margin-top: calc(0px - 1.5rem - 6px);
+  
+    padding: 1rem;
+    border-radius: 8px;
+    border: none;
+  
+    cursor: pointer;
+  }

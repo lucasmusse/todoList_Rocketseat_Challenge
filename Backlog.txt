@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Proximas melhorias
+- Criar componente de filtros por nome e tarefa concluída
+- Utilizar localStorage ou criar um banco de dados para armazenar as tarefas.
+- Criar telinha de login usando alguma lib ou firebase.
+- Ajustar layout para ficar mais original, já que segui o layout proposto da rocket.

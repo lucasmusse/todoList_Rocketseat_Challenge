@@ -1,0 +1,52 @@
+.tasksBoard {
+    margin-top: 2rem;
+  
+    width: 100%;
+  }
+  
+  .taksBoardHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .createdTasks {
+    color: var(--blue);
+  }
+  
+  .countTasks {
+    background: var(--gray-400);
+    padding: 0 0.5rem;
+    border-radius: 12px;
+    color: var(--gray-100);
+  }
+  .doneTasks {
+    color: var(--purple);
+  }
+  
+  @media (max-width: 800px) {
+    .wrapper {
+      margin: 0 5%;
+    }
+  
+    .form {
+      flex-direction: column;
+    }
+  
+    .inputTask {
+      text-align: center;
+      
+    }
+  
+    .buttonSubmit {
+      justify-content: center;
+      margin-top: 5px;
+    }
+  
+    .taksBoardHeader {
+      flex-direction: column;
+      gap: 0.8rem;
+      align-items: flex-end;
+    }
+  }
+  
