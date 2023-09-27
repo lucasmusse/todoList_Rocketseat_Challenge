@@ -14,4 +14,9 @@ Desafio proposto após a primeira trilha de react do curso da Rocket Seat
 React
 css module
 
+Execute o projeto com:
+npm run dev
+
+
+
 >>>>>>> 7b44c8023a2db620c25282a2acda5afd98138a8c
