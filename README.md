@@ -10,4 +10,8 @@ Currently, two official plugins are available:
 =======
 # todoList_Rocketseat_Challenge
 Desafio proposto após a primeira trilha de react do curso da Rocket Seat
+
+React
+css module
+
 >>>>>>> 7b44c8023a2db620c25282a2acda5afd98138a8c
